@@ -1,5 +1,9 @@
 # RPM packages Postgresql 16 for Centos 7
 
+```
+sudo yum localinstall postgresql16-16.2-1PGDG.el7.x86_64.rpm postgresql16-libs-16.2-1PGDG.el7.x86_64.rpm
+```
+
 for postgresql16-llvmjit need 
 
 ```
