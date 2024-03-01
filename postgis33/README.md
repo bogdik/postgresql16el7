@@ -9,5 +9,6 @@ cd ../../
 sudo yum localinstall postgresql16-contrib-16.2-1PGDG.el7.x86_64.rpm
 cd postgis33
 sudo yum localinstall postgis33_16-3.3.6-2PGDG.el7.x86_64.rpm
+sudo yum remove protobuf-c-devel-1.1.1-2.fc23.x86_64
 
 ```
